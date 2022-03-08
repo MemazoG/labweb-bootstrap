@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+.awards_leadership, .skillscont, .projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card, .skill {
+    margin: 15px;
+}
+
+.skill {
+    width: 20%;
+}
+
+#contact {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
